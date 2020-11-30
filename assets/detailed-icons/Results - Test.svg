@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Results - Test</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Results---Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M22.455,21.75 C22.455,22.5784271 21.7834271,23.25 20.955,23.25 L2.955,23.25 C2.12657288,23.25 1.455,22.5784271 1.455,21.75 L1.455,2.25 C1.455,1.42157288 2.12657288,0.75 2.955,0.75 L17.955,0.75 C18.3455054,0.750560246 18.7203982,0.903387376 19,1.176 L22,4.059 C22.2893631,4.34104988 22.452691,4.72791702 22.453,5.132 L22.455,21.75 Z" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M5.955,7.5 L5.955,18.75 L17.955,18.75 M5.955,15.75 L9.317,12.612 C10.0686805,11.9289722 11.2163195,11.9289722 11.968,12.612 L12.694,13.29 C13.1147458,13.6752348 13.6825782,13.8578176 14.249,13.79 C14.8104959,13.7313975 15.3163507,13.4247299 15.628,12.954 L17.2,10.5" id="Color-2" stroke="#46B0CA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

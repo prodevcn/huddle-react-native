@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Procedure</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Procedure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.5,18.75 C8.74264069,18.75 9.75,17.7426407 9.75,16.5 C9.75,15.2573593 8.74264069,14.25 7.5,14.25 C6.25735931,14.25 5.25,15.2573593 5.25,16.5 C5.25,17.7426407 6.25735931,18.75 7.5,18.75 Z M12,14.25 L20.5,14.25 C21.6045695,14.25 22.5,15.1454305 22.5,16.25 L22.5,18.75 L12,18.75 L12,14.25 Z M1.5,18.75 L22.5,18.75 L22.5,21.75 L1.5,21.75 L1.5,18.75 Z M1.5,23.25 L1.5,14.25 M22.5,23.25 L22.5,21.75" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M17.25,3.75 L15,3.75 L15,1.5 C15,1.08578644 14.6642136,0.75 14.25,0.75 L11.25,0.75 C10.8357864,0.75 10.5,1.08578644 10.5,1.5 L10.5,3.75 L8.25,3.75 C7.83578644,3.75 7.5,4.08578644 7.5,4.5 L7.5,7.5 C7.5,7.91421356 7.83578644,8.25 8.25,8.25 L10.5,8.25 L10.5,10.5 C10.5,10.9142136 10.8357864,11.25 11.25,11.25 L14.25,11.25 C14.6642136,11.25 15,10.9142136 15,10.5 L15,8.25 L17.25,8.25 C17.6642136,8.25 18,7.91421356 18,7.5 L18,4.5 C18,4.08578644 17.6642136,3.75 17.25,3.75 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

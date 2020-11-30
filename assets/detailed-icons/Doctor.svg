@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Doctor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Doctor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M16.8,5.394 C17.7098173,7.58935738 17.0315022,10.1220989 15.1462514,11.5688853 C13.2610006,13.0156717 10.6389994,13.0156717 8.75374857,11.5688853 C6.86849778,10.1220989 6.19018274,7.58935738 7.1,5.394 M12.696,23.25 L12.696,14.933 M6.697,7.5 L17.195,7.5 M21.584,23.25 C20.8920945,18.4592708 16.7864358,14.903977 11.946,14.903977 C7.10556416,14.903977 2.99990546,18.4592708 2.308,23.25" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M8.196,20.153 L6.696,20.153 L8.196,20.153 L8.196,18.653 L8.196,20.153 Z M8.196,20.153 L9.696,20.153 L8.196,20.153 L8.196,21.653 L8.196,20.153 Z M11.946,5.25 C10.7033593,5.25 9.696,4.24264069 9.696,3 C9.696,1.75735931 10.7033593,0.75 11.946,0.75 C13.1886407,0.75 14.196,1.75735931 14.196,3 C14.196,4.24264069 13.1886407,5.25 11.946,5.25 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

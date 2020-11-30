@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Emergency Contact</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Emergency-Contact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.5,0.75 L16.5,0.75 C17.7426407,0.75 18.75,1.75735931 18.75,3 L18.75,21 C18.75,22.2426407 17.7426407,23.25 16.5,23.25 L7.5,23.25 C6.25735931,23.25 5.25,22.2426407 5.25,21 L5.25,3 C5.25,1.75735931 6.25735931,0.75 7.5,0.75 Z M5.25,18.75 L18.75,18.75" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M15.75,9 C15.75,8.58578644 15.4142136,8.25 15,8.25 L13.5,8.25 L13.5,6.75 C13.5,6.33578644 13.1642136,6 12.75,6 L11.25,6 C10.8357864,6 10.5,6.33578644 10.5,6.75 L10.5,8.25 L9,8.25 C8.58578644,8.25 8.25,8.58578644 8.25,9 L8.25,10.5 C8.25,10.9142136 8.58578644,11.25 9,11.25 L10.5,11.25 L10.5,12.75 C10.5,13.1642136 10.8357864,13.5 11.25,13.5 L12.75,13.5 C13.1642136,13.5 13.5,13.1642136 13.5,12.75 L13.5,11.25 L15,11.25 C15.4142136,11.25 15.75,10.9142136 15.75,10.5 L15.75,9 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

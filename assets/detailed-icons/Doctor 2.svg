@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Doctor 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Doctor-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M9.75,2.25 L11.25,2.25 C12.0784271,2.25 12.75,2.92157288 12.75,3.75 L12.75,9.75 C12.75,13.0637085 10.0637085,15.75 6.75,15.75 C3.4362915,15.75 0.75,13.0637085 0.75,9.75 L0.75,3.75 C0.75,2.92157288 1.42157288,2.25 2.25,2.25 L3.75,2.25 M3.75,0.75 L3.75,4.5 M9.75,0.75 L9.75,4.5 M6.75,15.75 L6.75,16.5 C6.75,20.2279221 9.77207794,23.25 13.5,23.25 C17.2279221,23.25 20.25,20.2279221 20.25,16.5 L20.25,12.75" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round" cx="20.25" cy="9.75" r="3"></circle>
+    </g>
+</svg>

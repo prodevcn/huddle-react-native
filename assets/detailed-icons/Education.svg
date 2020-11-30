@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Education</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Education" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M9,9 C9.00029133,7.47442919 10.1454538,6.19201013 11.6612688,6.01975736 C13.1770839,5.8475046 14.5807925,6.84027747 14.9233788,8.32688466 C15.2659652,9.81349185 14.438322,11.3204764 13,11.829 C12.4004081,12.0409876 11.9996666,12.6080369 12,13.244 L12,14.25 M12,17.25 C11.7928932,17.25 11.625,17.4178932 11.625,17.625 C11.625,17.8321068 11.7928932,18 12,18 C12.2071068,18 12.375,17.8321068 12.375,17.625 C12.375,17.4178932 12.2071068,17.25 12,17.25 L12,17.25" id="Color-2" stroke="#46B0CA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12" r="11.25"></circle>
+    </g>
+</svg>

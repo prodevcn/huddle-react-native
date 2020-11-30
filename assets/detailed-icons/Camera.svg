@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.25,18 C11.3505051,18 9,15.6494949 9,12.75 C9,9.85050506 11.3505051,7.5 14.25,7.5 C17.1494949,7.5 19.5,9.85050506 19.5,12.75 C19.5,15.6494949 17.1494949,18 14.25,18 Z M4.125,9 C4.33210678,9 4.5,9.16789322 4.5,9.375 C4.5,9.58210678 4.33210678,9.75 4.125,9.75 C3.91789322,9.75 3.75,9.58210678 3.75,9.375 C3.75,9.16789322 3.91789322,9 4.125,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Base-/-Icons-/-Detailed-/-Camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <g id="Color-2" stroke-linecap="round" stroke-linejoin="round">
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            <use stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" xlink:href="#path-1"></use>
+        </g>
+        <path d="M19.5,5.99999993 L21.75,5.99999993 C22.5784271,5.99999993 23.25,6.67157288 23.25,7.49999993 L23.25,19.4999999 C23.25,20.3284271 22.5784271,20.9999999 21.75,20.9999999 L2.25,20.9999999 C1.42157288,20.9999999 0.75,20.3284271 0.75,19.4999999 L0.75,7.49999993 C0.75,6.67157288 1.42157288,5.99999993 2.25,5.99999993 L9,5.99999993 L10.085,3.829 C10.339196,3.32077798 10.8587525,2.99999993 11.427,2.99999993 L17.073,2.99999993 C17.6412475,2.99999993 18.160804,3.32077798 18.415,3.829 L19.5,5.99999993 Z M5.25,6 L5.25,4.5 L5.25,6 Z" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

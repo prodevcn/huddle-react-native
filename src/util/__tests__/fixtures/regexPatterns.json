@@ -1,0 +1,31 @@
+{
+  "item_filter": {
+    "ampersands": {
+      "test": "*(&(&^"
+    },
+    "parenthesis": {
+      "test": "("
+    },
+    "twos": {
+      "test": "22222*(("
+    },
+    "pluses": {
+      "test": "+++"
+    },
+    "capital": {
+      "find": "Vancouver",
+      "test": "vancouver",
+      "flags": "i"
+    },
+    "title": {
+      "find": "Big and Small",
+      "test": "big and small",
+      "flags": "i"
+    },
+    "word_special_charater": {
+      "find": "Big & Small",
+      "test": "big & small",
+      "flags": "i"
+    }
+  }
+}

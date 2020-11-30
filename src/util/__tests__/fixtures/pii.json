@@ -1,0 +1,27 @@
+{
+  "email": {
+    "drfirst": "dan.brooks@drfirst.com",
+    "plus": "dan.brooks+alias@metalab.co"
+  },
+  "phone": {
+    "NANP": "(123) 123-1234",
+    "NANP_with_dash": "(123)-123-1234",
+    "NANP_no_format": "1231231234",
+    "NANP_Country_Code_with_space": "+1 (123) 123-1234",
+    "NANP_Country_Code_with_dashes": "+1 (123)-123-1234",
+    "NANP_with_dots": "123.123.1234",
+    "NANP_Country_Code_with_dots": "+1 123.123.1234"
+  },
+  "url": {
+    "metalab": "http://metalab.co",
+    "drfirst": "https://drfirst.com/",
+    "querystring": "https://en.wikipedia.org/w/index.php?title=Vancouver&action=edit"
+  },
+  "userIdentifier": {
+    "ascii": "DAN_BROOKS_2020-12-31",
+    "duplicate": "DAN_BROOKS_2020-12-31#28",
+    "unicode": "РДФШЭ_日本語_2021-01-01",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDE6_\uD83D\uDCA9_2019-11-11",
+    "latin": "ÜBER_CAFÉ_2020-02-10"
+  }
+}

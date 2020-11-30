@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Demographic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Demographic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.5,12 C9.77817459,12 11.625,10.1531746 11.625,7.875 C11.625,5.59682541 9.77817459,3.75 7.5,3.75 C5.22182541,3.75 3.375,5.59682541 3.375,7.875 C3.375,10.1531746 5.22182541,12 7.5,12 Z M0.75,20.25 C0.75,16.5220779 3.77207794,13.5 7.5,13.5 C11.2279221,13.5 14.25,16.5220779 14.25,20.25" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M14.251,4.416 C15.9763126,3.29495411 18.263924,3.61674201 19.6130191,5.17025087 C20.9621143,6.72375974 20.9601095,9.0338916 19.6083201,10.5850566 C18.2565307,12.1362217 15.9683643,12.4540387 14.245,11.33 M15,13.667 C17.0024475,13.2133331 19.1025407,13.694753 20.7074285,14.9753563 C22.3123164,16.2559595 23.2478755,18.1968061 23.25,20.25" id="Color-2" stroke="#46B0CA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

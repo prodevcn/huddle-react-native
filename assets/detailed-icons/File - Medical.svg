@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / File - Medical</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-File---Medical" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4.636,0.75 C3.77073723,0.714416805 3.03945782,1.38490526 3,2.25 L3,21.75 C3.03945782,22.6150947 3.77073723,23.2855832 4.636,23.25 L19.364,23.25 C20.2292628,23.2855832 20.9605422,22.6150947 21,21.75 L21,5.871 C20.9967424,5.46597547 20.8228249,5.08110588 20.521,4.811 L16.57,1.189 C16.2523567,0.903858932 15.8398438,0.74733931 15.413,0.75 L4.636,0.75 Z M15,0.75 L15,5.036 C15.0005517,5.98238746 15.7676125,6.74944833 16.714,6.75 L21,6.75" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M16.5,13.5 C16.5,13.0857864 16.1642136,12.75 15.75,12.75 L13.5,12.75 L13.5,10.5 C13.5,10.0857864 13.1642136,9.75 12.75,9.75 L11.25,9.75 C10.8357864,9.75 10.5,10.0857864 10.5,10.5 L10.5,12.75 L8.25,12.75 C7.83578644,12.75 7.5,13.0857864 7.5,13.5 L7.5,15 C7.5,15.4142136 7.83578644,15.75 8.25,15.75 L10.5,15.75 L10.5,18 C10.5,18.4142136 10.8357864,18.75 11.25,18.75 L12.75,18.75 C13.1642136,18.75 13.5,18.4142136 13.5,18 L13.5,15.75 L15.75,15.75 C16.1642136,15.75 16.5,15.4142136 16.5,15 L16.5,13.5 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

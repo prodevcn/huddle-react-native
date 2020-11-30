@@ -1,0 +1,13 @@
+export const FETCH = 'CARE_TEAM::FETCH';
+export const FETCH_SUCCESS = 'CARE_TEAM::FETCH_SUCCESS';
+export const FETCH_FAILED = 'CARE_TEAM::FETCH_FAILED';
+
+export const ADD = 'CARE_TEAM::ADD';
+export const ADD_SUCCESS = 'CARE_TEAM::ADD_SUCCESS';
+export const ADD_FAILED = 'CARE_TEAM::ADD_FAILED';
+
+export const REMOVE = 'CARE_TEAM::REMOVE';
+export const REMOVE_SUCCESS = 'CARE_TEAM::REMOVE_SUCCESS';
+export const REMOVE_FAILED = 'CARE_TEAM::REMOVE_FAILED';
+
+export const CLEAR_LIST = 'CARE_TEAM::CLEAR_LIST';

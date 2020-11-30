@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button when using default button renders correctly 1`] = `
+<View
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    collapsable={true}
+    pointerEvents="box-none"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 8,
+            "flex": 0,
+            "flexDirection": "row",
+            "justifyContent": "center",
+          },
+          Object {
+            "height": 44,
+            "paddingHorizontal": 24,
+          },
+          Object {
+            "backgroundColor": "#203054",
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          Array [
+            undefined,
+            Object {
+              "color": "#203054",
+              "fontFamily": "Lato",
+              "fontSize": 14,
+              "fontWeight": "500",
+              "lineHeight": 24,
+            },
+            false,
+            Array [
+              Object {
+                "color": "#fff",
+              },
+              Object {
+                "fontSize": 14,
+              },
+              false,
+              undefined,
+            ],
+          ]
+        }
+      >
+        Press Me
+      </Text>
+    </TouchableOpacity>
+  </View>
+</View>
+`;
+
+exports[`Button when using disabled button renders correctly 1`] = `
+<View
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    collapsable={true}
+    pointerEvents="box-none"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 8,
+            "flex": 0,
+            "flexDirection": "row",
+            "justifyContent": "center",
+          },
+          Object {
+            "height": 44,
+            "paddingHorizontal": 24,
+          },
+          Object {
+            "backgroundColor": "#203054",
+          },
+          Object {
+            "backgroundColor": "#f6f6f6",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={1}
+        style={
+          Array [
+            undefined,
+            Object {
+              "color": "#203054",
+              "fontFamily": "Lato",
+              "fontSize": 14,
+              "fontWeight": "500",
+              "lineHeight": 24,
+            },
+            false,
+            Array [
+              Object {
+                "color": "#fff",
+              },
+              Object {
+                "fontSize": 14,
+              },
+              Object {
+                "color": "#000",
+                "opacity": 0.4,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Press Me
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Button when using loading prop renders correctly 1`] = `
+<View
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    collapsable={true}
+    pointerEvents="box-none"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 8,
+            "flex": 0,
+            "flexDirection": "row",
+            "justifyContent": "center",
+          },
+          Object {
+            "height": 44,
+            "paddingHorizontal": 24,
+          },
+          Object {
+            "backgroundColor": "#203054",
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <ActivityIndicator
+        animating={true}
+        color="#fff"
+        hidesWhenStopped={true}
+        size="small"
+        testID="loading"
+      />
+    </View>
+  </View>
+</View>
+`;

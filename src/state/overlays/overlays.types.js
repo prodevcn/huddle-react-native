@@ -1,0 +1,4 @@
+export const SHOW = 'OVERLAYS::SHOW';
+export const DISMISS = 'OVERLAYS::DISMISS';
+export const DISMISSING = 'OVERLAYS::DISMISSING';
+export const TRANSITION = 'OVERLAYS::TRANSITION';

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Relationship - Parent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Relationship---Parent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M15,6.75 C13.3431458,6.75 12,5.40685425 12,3.75 C12,2.09314575 13.3431458,0.75 15,0.75 C16.6568542,0.75 18,2.09314575 18,3.75 C18,5.40685425 16.6568542,6.75 15,6.75 Z M15,8.25 L15,14.25 L15,8.25 Z M17.25,23.25 L12.75,23.25 L12,15.75 L10.5,15.75 L10.5,12.75 C10.5,10.2647186 12.5147186,8.25 15,8.25 C17.4852814,8.25 19.5,10.2647186 19.5,12.75 L19.5,15.75 L18,15.75 L17.25,23.25 Z" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M4.5,15 L4.5,14.25 C4.5,13.4215729 5.17157288,12.75 6,12.75 L6,12.75 C6.82842712,12.75 7.5,13.4215729 7.5,14.25 L7.5,23.25" id="Color-2" stroke="#46B0CA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

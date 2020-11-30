@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Results - Lab</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Results---Lab" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6.75,0.75 L12.75,0.75 M11.25,8.4 L11.25,0.75 L8.25,0.75 L8.25,8.4 C4.47755517,9.17004708 1.90099569,12.6715481 2.28797885,16.5022864 C2.67496201,20.3330248 5.89976462,23.2484692 9.75,23.2484692 C13.6002354,23.2484692 16.825038,20.3330248 17.2120211,16.5022864 C17.5990043,12.6715481 15.0224448,9.17004708 11.25,8.4 L11.25,8.4 Z M17.1,17.25 L2.4,17.25" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M15.75,7.5 L15.75,3.75 L20.25,3.75 L20.25,21 C20.249304,21.7301993 19.8946133,22.4147364 19.2984715,22.8364074 C18.7023297,23.2580784 17.9387438,23.3645355 17.25,23.122 M21.75,3.75 L14.25,3.75" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

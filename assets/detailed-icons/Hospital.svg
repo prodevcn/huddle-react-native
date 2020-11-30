@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Hospital</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Hospital" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M9,23.25 L9,15.75 C9,14.9215729 9.67157288,14.25 10.5,14.25 L21,14.25 C21.8284271,14.25 22.5,14.9215729 22.5,15.75 L22.5,23.25 L6,23.25 M1.5,9.75 L1.5,23.25 M13.5,14.25 L13.5,10.519 M4.5,14.25 L6,14.25 M4.5,18.75 L6,18.75 M12.75,20.269 L14.25,20.269 M17.25,20.269 L18.75,20.269 M12.75,17.269 L14.25,17.269 M17.25,17.269 L18.75,17.269" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M7.5,9.75 C9.98528137,9.75 12,7.73528137 12,5.25 C12,2.76471863 9.98528137,0.75 7.5,0.75 C5.01471863,0.75 3,2.76471863 3,5.25 C3,7.73528137 5.01471863,9.75 7.5,9.75 Z M7.5,3.75 L7.5,6.75 M6,5.25 L9,5.25" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

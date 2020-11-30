@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Appointment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Appointment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2.25,3.75 L21.75,3.75 C22.5784271,3.75 23.25,4.42157288 23.25,5.25 L23.25,21.75 C23.25,22.5784271 22.5784271,23.25 21.75,23.25 L2.25,23.25 C1.42157288,23.25 0.75,22.5784271 0.75,21.75 L0.75,5.25 C0.75,4.42157288 1.42157288,3.75 2.25,3.75 Z M0.75,9.75 L23.25,9.75 M6.75,6 L6.75,0.75 M17.25,6 L17.25,0.75" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M15.93,13.6 C15.5714106,13.2236894 15.0743038,13.0107249 14.5545,13.0107249 C14.0346962,13.0107249 13.5375894,13.2236894 13.179,13.6 L12,14.814 L10.821,13.6 C10.4624106,13.2236894 9.96530383,13.0107249 9.4455,13.0107249 C8.92569617,13.0107249 8.42858938,13.2236894 8.07,13.6 C7.31012357,14.3957289 7.31012357,15.6482711 8.07,16.444 L11.581,20.075 C11.6902654,20.1895701 11.8416799,20.2544002 12,20.2544002 C12.1583201,20.2544002 12.3097346,20.1895701 12.419,20.075 L15.93,16.44 C16.6873333,15.6448 16.6873333,14.3952 15.93,13.6 L15.93,13.6 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

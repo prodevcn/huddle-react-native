@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Note - Custom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Note---Custom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M23.2508521,21.643 C23.27896,22.5004348 22.6081891,23.219054 21.7508521,23.25 L2.25085206,23.25 C1.39351503,23.219054 0.722744111,22.5004348 0.75085206,21.643 L0.75085206,5.357 C0.722744111,4.49956524 1.39351503,3.78094599 2.25085206,3.75 L21.7508521,3.75 C22.6081891,3.78094599 23.27896,4.49956524 23.2508521,5.357 L23.2508521,21.643 Z M5.25085206,0.75 L5.25085206,5.25 M9.75085206,0.75 L9.75085206,5.25 M14.2508521,0.75 L14.2508521,5.25 M18.7508521,0.75 L18.7508521,5.25" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M7,9.5 L17.5,9.5 L7,9.5 Z M7,14 L17.5,14 L7,14 Z M7,18.5 L12.25,18.5 L7,18.5 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

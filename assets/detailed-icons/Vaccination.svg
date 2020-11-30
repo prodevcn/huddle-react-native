@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Vaccination</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Vaccination" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M1,22.75 L3.652,20.098 M15.3189706,6.30968266 L19.0312812,2.59737206 L21.1526015,4.7186924 L17.4402909,8.431003 L15.3189706,6.30968266 Z M17.44,1.006 L22.744,6.31" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M7.894,19.038 L4.712,15.856 C4.43048749,15.5746678 4.27232023,15.1929913 4.27232023,14.795 C4.27232023,14.3970087 4.43048749,14.0153322 4.712,13.734 L13.728,4.719 L19.028,10.019 L10.013,19.035 C9.42830745,19.620071 8.48034685,19.6214131 7.894,19.038 Z M2.59130067,19.0384102 L5.2429511,16.3867598 L7.36427144,18.5080801 L4.71262101,21.1597305 L2.59130067,19.0384102 Z M12.137,3.128 L20.622,11.613 M13.728,11.083 L15.849,13.204 M10.546,14.265 L12.667,16.386" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

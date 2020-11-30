@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Provider</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Provider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2.25,3 L21.75,3 C22.5784271,3 23.25,3.67157288 23.25,4.5 L23.25,19.5 C23.25,20.3284271 22.5784271,21 21.75,21 L2.25,21 C1.42157288,21 0.75,20.3284271 0.75,19.5 L0.75,4.5 C0.75,3.67157288 1.42157288,3 2.25,3 Z M0.75,7.5 L23.25,7.5 M20.25,12 L14.25,12 M17.25,16.5 L14.25,16.5" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M7.5,14.25 L7.5,11.25 L7.5,14.25 L4.5,14.25 L7.5,14.25 Z M7.5,14.25 L7.5,17.25 L7.5,14.25 L10.5,14.25 L7.5,14.25 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

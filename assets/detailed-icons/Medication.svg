@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Medication</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Medication" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M21,5.25 L3,5.25 L3,2.25 C3,1.42157288 3.67157288,0.75 4.5,0.75 L19.5,0.75 C20.3284271,0.75 21,1.42157288 21,2.25 L21,5.25 Z M19.5,5.25 L4.5,5.25 L4.5,20.25 C4.5,21.9068542 5.84314575,23.25 7.5,23.25 L16.5,23.25 C18.1568542,23.25 19.5,21.9068542 19.5,20.25 L19.5,5.25 Z" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10.9049904,18.0800425 C10.0116699,18.9733631 8.56331102,18.9733631 7.66999044,18.0800425 C6.77666985,17.186722 6.77666985,15.7383631 7.66999044,14.8450425 L12.8499904,9.67004254 C13.4278675,9.09216545 14.2701417,8.86647875 15.0595365,9.07799645 C15.8489313,9.28951414 16.4655188,9.90610166 16.6770365,10.6954964 C16.8885542,11.4848912 16.6628675,12.3271654 16.0849904,12.9050425 L10.9049904,18.0800425 Z M10.2579904,12.2580425 L13.4919904,15.4920425" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

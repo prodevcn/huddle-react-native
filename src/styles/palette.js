@@ -1,0 +1,15 @@
+export default {
+  deepBlue: '#203054',
+  darkBackground: 'rgba(32,48,84,0.9)',
+  coral: '#fc7370',
+  white: '#fff',
+  black: '#000',
+  teal: '#46b0ca',
+  purple: '#6a487e',
+  orange: '#ff5845',
+  grey01: '#71798a',
+  grey02: '#d4d6db',
+  grey03: '#e3e4e8',
+  grey04: '#f6f6f6',
+  onboardingBackground: '#C8E7EF',
+};

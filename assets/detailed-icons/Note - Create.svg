@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Base / Icons / Detailed / Note - Create</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Base-/-Icons-/-Detailed-/-Note---Create" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Footprint" x="0" y="0" width="24" height="24"></rect>
+        <path d="M8.25,20.242 L2.25,20.242 C1.84919815,20.2519832 1.46183936,20.0971559 1.17834175,19.8136583 C0.894844138,19.5301606 0.740016849,19.1428019 0.75,18.742 L0.75,3.849 C0.721892051,2.99156524 1.39266297,2.27294599 2.25,2.242 L17.25,2.242 C18.107337,2.27294599 18.7781079,2.99156524 18.75,3.849 L18.75,8.242 M5.25,0.742 L5.25,5.242 M9.75,0.742 L9.75,5.242 M14.25,0.742 L14.25,5.242" id="Color-1" stroke="#203054" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M22.63,14.862 L15,22.492 L11.25,23.242 L12,19.492 L19.63,11.862 C20.4562949,11.0359678 21.7957051,11.0359678 22.622,11.862 L22.63,11.871 C23.0271113,12.2673763 23.250268,12.8054193 23.250268,13.3665 C23.250268,13.9275807 23.0271113,14.4656237 22.63,14.862 L22.63,14.862 Z" id="Color-2" stroke="#46B0CA" stroke-width="1.5" fill-opacity="0.1" fill="#46B0CA" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>
